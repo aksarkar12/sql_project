@@ -1,0 +1,101 @@
+Sale_ID,Date,Pizza_Type,Quantity,Price_Per_Item,Store_Location,Payment_Method,Total_Price
+1,2025-05-03,Pepperoni,5,18,Chicago,Credit Card,90
+2,2025-05-20,Meat Lovers,5,9,Los Angeles,Online Payment,45
+3,2025-05-23,Hawaiian,2,18,Houston,Credit Card,36
+4,2025-04-30,Meat Lovers,2,18,Phoenix,Credit Card,36
+5,2025-05-15,Meat Lovers,3,9,Houston,Credit Card,27
+6,2025-05-16,Meat Lovers,2,16,Phoenix,Online Payment,32
+7,2025-05-16,Margherita,5,14,New York,Credit Card,70
+8,2025-05-19,BBQ Chicken,5,8,New York,Online Payment,40
+9,2025-04-30,Meat Lovers,1,9,New York,Cash,9
+10,2025-05-20,Pepperoni,5,17,Los Angeles,Cash,85
+11,2025-05-02,BBQ Chicken,3,11,Phoenix,Credit Card,33
+12,2025-04-30,Meat Lovers,4,13,New York,Online Payment,52
+13,2025-04-25,Pepperoni,1,14,Chicago,Credit Card,14
+14,2025-05-06,Pepperoni,1,18,Phoenix,Online Payment,18
+15,2025-05-21,Veggie,3,19,Phoenix,Online Payment,57
+16,2025-05-05,Veggie,3,10,Los Angeles,Cash,30
+17,2025-05-10,Hawaiian,2,8,Houston,Online Payment,16
+18,2025-05-22,Meat Lovers,1,13,Los Angeles,Online Payment,13
+19,2025-05-23,Meat Lovers,2,19,New York,Credit Card,38
+20,2025-05-21,BBQ Chicken,5,17,Chicago,Credit Card,85
+21,2025-05-17,Pepperoni,1,11,Chicago,Online Payment,11
+22,2025-05-16,Meat Lovers,1,16,New York,Cash,16
+23,2025-05-07,Hawaiian,4,17,Chicago,Credit Card,68
+24,2025-05-04,Margherita,1,17,Los Angeles,Credit Card,17
+25,2025-05-23,Pepperoni,5,16,Los Angeles,Cash,80
+26,2025-05-06,Margherita,2,14,New York,Credit Card,28
+27,2025-05-17,Hawaiian,2,10,Chicago,Online Payment,20
+28,2025-05-01,Veggie,4,11,Phoenix,Online Payment,44
+29,2025-05-03,Hawaiian,5,9,Houston,Online Payment,45
+30,2025-05-01,Margherita,2,17,Phoenix,Credit Card,34
+31,2025-05-06,Pepperoni,3,9,Los Angeles,Credit Card,27
+32,2025-05-10,BBQ Chicken,5,12,Los Angeles,Credit Card,60
+33,2025-05-16,Meat Lovers,5,9,Los Angeles,Credit Card,45
+34,2025-05-09,Hawaiian,4,14,Los Angeles,Online Payment,56
+35,2025-05-05,Pepperoni,2,19,Houston,Cash,38
+36,2025-05-15,Meat Lovers,5,14,New York,Online Payment,70
+37,2025-04-28,Veggie,2,9,Los Angeles,Credit Card,18
+38,2025-04-26,Veggie,3,14,Chicago,Online Payment,42
+39,2025-05-23,Meat Lovers,4,18,Houston,Cash,72
+40,2025-04-29,Veggie,3,9,Los Angeles,Online Payment,27
+41,2025-04-28,Pepperoni,4,9,Chicago,Cash,36
+42,2025-05-18,Hawaiian,5,18,Los Angeles,Credit Card,90
+43,2025-05-01,Pepperoni,4,13,New York,Online Payment,52
+44,2025-05-10,Pepperoni,1,19,Houston,Online Payment,19
+45,2025-05-13,Meat Lovers,2,15,New York,Online Payment,30
+46,2025-05-15,BBQ Chicken,2,15,Houston,Online Payment,30
+47,2025-05-19,BBQ Chicken,1,8,Los Angeles,Credit Card,8
+48,2025-05-17,Hawaiian,3,9,Los Angeles,Cash,27
+49,2025-04-23,Meat Lovers,1,16,Houston,Cash,16
+50,2025-04-29,BBQ Chicken,5,15,Chicago,Online Payment,75
+51,2025-05-13,Veggie,5,12,Chicago,Credit Card,60
+52,2025-05-20,BBQ Chicken,2,11,Los Angeles,Cash,22
+53,2025-05-21,Veggie,5,16,Los Angeles,Cash,80
+54,2025-05-11,Hawaiian,2,12,New York,Cash,24
+55,2025-05-20,Pepperoni,1,11,Los Angeles,Cash,11
+56,2025-05-12,Pepperoni,1,10,Houston,Cash,10
+57,2025-04-26,BBQ Chicken,1,16,Chicago,Cash,16
+58,2025-05-12,Veggie,2,13,Chicago,Credit Card,26
+59,2025-05-04,Margherita,1,19,New York,Online Payment,19
+60,2025-05-15,Margherita,1,19,Chicago,Cash,19
+61,2025-04-28,Margherita,3,8,Chicago,Credit Card,24
+62,2025-05-22,Pepperoni,1,15,Phoenix,Credit Card,15
+63,2025-04-30,Meat Lovers,5,15,Houston,Online Payment,75
+64,2025-05-09,Pepperoni,2,9,Phoenix,Online Payment,18
+65,2025-05-06,Meat Lovers,3,14,Chicago,Cash,42
+66,2025-05-20,Veggie,4,14,New York,Online Payment,56
+67,2025-04-24,BBQ Chicken,2,10,New York,Online Payment,20
+68,2025-05-11,Margherita,5,12,Chicago,Credit Card,60
+69,2025-05-21,Veggie,2,9,Los Angeles,Credit Card,18
+70,2025-05-06,Veggie,5,11,Phoenix,Credit Card,55
+71,2025-05-14,BBQ Chicken,5,11,Chicago,Cash,55
+72,2025-04-27,Veggie,4,13,New York,Cash,52
+73,2025-05-03,BBQ Chicken,2,15,New York,Online Payment,30
+74,2025-05-04,Hawaiian,4,12,Phoenix,Online Payment,48
+75,2025-04-25,BBQ Chicken,4,20,Houston,Cash,80
+76,2025-04-26,Margherita,2,18,Chicago,Cash,36
+77,2025-05-12,Meat Lovers,1,14,Chicago,Credit Card,14
+78,2025-05-05,Meat Lovers,1,16,Houston,Cash,16
+79,2025-05-17,Margherita,4,15,Phoenix,Cash,60
+80,2025-05-01,Meat Lovers,3,19,Phoenix,Online Payment,57
+81,2025-05-21,BBQ Chicken,4,9,New York,Online Payment,36
+82,2025-05-22,Hawaiian,4,19,Houston,Credit Card,76
+83,2025-05-02,Meat Lovers,4,11,Phoenix,Cash,44
+84,2025-05-16,Hawaiian,1,19,Los Angeles,Online Payment,19
+85,2025-04-29,Margherita,1,17,Chicago,Cash,17
+86,2025-05-14,Hawaiian,1,10,New York,Cash,10
+87,2025-05-21,Veggie,4,11,Houston,Credit Card,44
+88,2025-04-26,Pepperoni,3,11,New York,Cash,33
+89,2025-05-16,Veggie,1,12,Phoenix,Credit Card,12
+90,2025-04-26,Margherita,2,16,Phoenix,Online Payment,32
+91,2025-05-20,Meat Lovers,2,18,Los Angeles,Online Payment,36
+92,2025-05-11,Meat Lovers,2,14,Chicago,Online Payment,28
+93,2025-05-15,Hawaiian,5,11,Houston,Online Payment,55
+94,2025-05-09,BBQ Chicken,4,19,New York,Credit Card,76
+95,2025-05-03,Pepperoni,2,9,Chicago,Credit Card,18
+96,2025-04-27,BBQ Chicken,4,16,Phoenix,Online Payment,64
+97,2025-05-12,Margherita,2,18,Chicago,Online Payment,36
+98,2025-05-18,Meat Lovers,3,9,New York,Online Payment,27
+99,2025-05-12,Hawaiian,4,12,Chicago,Credit Card,48
+100,2025-05-12,Meat Lovers,2,10,Phoenix,Online Payment,20
